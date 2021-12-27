@@ -1,0 +1,38 @@
+{
+    margin:0;
+    padding:0;
+}
+.head{
+text-align: center;
+color: #fff;
+padding-top: 55px;
+}
+.head h1{
+    font-size:80px ;
+    font-family: 'Kaushan Script', cursive;
+
+}
+.banner1
+{
+   background-image:linear-gradient(rgba(0,0,0,0.1),#009688),url('photo.jpg');
+    background-size:100%;
+    background-position:center;
+    height:94vh;
+}
+.button{
+    margin:50px auto 0;
+}
+.button a{
+    width:120px;
+    text-decoration:none;
+    display:inline-block;
+    margin: 0 12px;
+    padding:10px 0;
+    color:#fff;
+    border:.6px solid #fff;
+}
+.button a:hover{
+    color:lightgreen;
+
+}
+

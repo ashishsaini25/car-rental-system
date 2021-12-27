@@ -1,0 +1,22 @@
+{
+	margin=0;
+	padding=0;
+	box-sizing:border-box;
+}
+h2{
+	font-size: 50px;
+	font color: black;
+	line-height: 62px;
+font-family: 'Texturina', serif;
+}
+.carousel-inner img{
+width: 90vh;
+height: 90vh;
+}
+.card{
+	background-color: lightblue;
+}
+.card:hover
+{
+	color:blue;
+}
